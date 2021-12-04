@@ -1,0 +1,19 @@
+{
+  "name": "@boro3d/wordpress-theme",
+  "version": "1.0.0",
+  "description": "WordPress Theme for Boro3D",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretterer/boro3d-wordpress-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bretterer/boro3d-wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/bretterer/boro3d-wordpress-theme#readme"
+}
